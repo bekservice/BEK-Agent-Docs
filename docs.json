@@ -58,19 +58,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Server Status",
+          "href": "https://status.bekserver.com/status/bek-agent",
+          "icon": "server"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Demo anfragen",
+          "href": "https://bek-agent.de/demo-anfrage",
+          "icon": "calendar"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "App runterladen",
+          "href": "https://apps.apple.com/us/app/bek-telefon-ki/id6745460426",
+          "icon": "apple"
         }
       ]
     }
@@ -83,20 +83,21 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:info@bekservice.de"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Jetzt starten",
+      "href": "https://bek-agent.de/auth/login"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "instagram": "https://www.instagram.com/bekgroupservice/",
+      "facebook": "https://www.facebook.com/bekgroupservice/",
+      "youtube": "https://www.youtube.com/c/BEKGroupServiceKemptenAllg%C3%A4u",
+      "linkedin": "https://www.linkedin.com/company/13004532/"
     }
   }
 }
